@@ -311,11 +311,11 @@ h3 span{
     width: 100%;
 }
 .introtext{
-    width: 50%;
+    width: 70%;
 }
 .introtext h2{
     width: 70%;
-    font-family:cursive;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-bottom: 15px;
 }
 .introp{
@@ -354,6 +354,14 @@ h3 span{
 }
 .fa-up-right-from-square{
     font-size: 13px;
+}
+.intro_pic{
+    width: 30%;
+}
+
+.intro_pic img{
+    width: 100%;
+    margin-top: 30px;
 }
 
 
@@ -487,6 +495,14 @@ h3 span{
         font-size:10px ;
         width: 100%;
     }
+    
+    .introtext{
+        width: 70%;
+    }
+    .intro_pic img{
+        width: 50%;
+        margin-top: 0;
+    }
    
 }
 
@@ -509,6 +525,7 @@ h3 span{
         margin-top: 50px;
         border-radius: 55%;
     }
+
 }
 
 @media(max-width: 650px){
