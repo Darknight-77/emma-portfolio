@@ -334,6 +334,9 @@ h3 span{
     font-size: 14px;
     font-weight: lighter;
 }
+.smalltt span{
+    color: red;
+}
 .visitweb{
     width: fit-content;
     margin-top: 15px;
